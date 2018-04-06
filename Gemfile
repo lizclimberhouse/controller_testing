@@ -17,6 +17,7 @@ group :development, :test do
 gem 'pry'
   # RSpec Gem - Test Suite Runner
   gem 'rspec-rails'
+  gem 'factory_bot_rails'
 end
 
 group :test do
